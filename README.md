@@ -8,3 +8,4 @@ En este curos veremos:
 * Todos los comandos de Git
 * El flujo de trabajo 
 * Las buenas practicas
+* Creado por Manuel
