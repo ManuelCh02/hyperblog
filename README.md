@@ -9,3 +9,4 @@ En este curos veremos:
 * El flujo de trabajo 
 * Las buenas practicas
 * Creado por Manuel
+* Incluye ejemplos en Notion
