@@ -10,3 +10,4 @@ En este curos veremos:
 * Las buenas practicas
 * Creado por Manuel
 * Incluye ejemplos en Notion
+* Disponible para todas las edades
